@@ -1,0 +1,9 @@
+{
+  "package": "veui",
+  "path": "components",
+  "peerPackage": "veui-theme-dux",
+  "peerPath": "components",
+  "peerGlobal": "components/common.less",
+  "fileName": "${module}.less",
+  "transform": "kebab-case"
+}
